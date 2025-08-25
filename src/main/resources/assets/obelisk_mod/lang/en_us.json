@@ -1,0 +1,13 @@
+{
+  "itemGroup.obelisk_mod": "Example Mod Tab",
+  "block.obelisk_mod.example_block": "Example Block",
+  "item.obelisk_mod.example_item": "Example Item",
+
+  "obelisk_mod.configuration.title": "Obelisk Mod Configs",
+  "obelisk_mod.configuration.section.obelisk_mod.common.toml": "Obelisk Mod Configs",
+  "obelisk_mod.configuration.section.obelisk_mod.common.toml.title": "Obelisk Mod Configs",
+  "obelisk_mod.configuration.items": "Item List",
+  "obelisk_mod.configuration.logDirtBlock": "Log Dirt Block",
+  "obelisk_mod.configuration.magicNumberIntroduction": "Magic Number Text",
+  "obelisk_mod.configuration.magicNumber": "Magic Number"
+}
